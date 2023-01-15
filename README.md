@@ -27,12 +27,14 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 Su uso es muy sencillo, se debe ingresar el texto que se desea encriptar o desencriptar y presionar el botón correspondiente a la acción. Luego se mostrará en el segundo espacio el resultado de la operación; este podrá ser copiado al portapapeles del dispositivo por si fuera necesario.
 
 ## Comentarios
-- Se integró la libería [SweetAlert2](https://sweetalert2.github.io/) para mostrar pop-ups estilizados.
+- Se integró la libería <a href="https://sweetalert2.github.io/" target="_blank">SweetAlert2</a> para mostrar pop-ups estilizados.
 - A pesar de que uno de los requisitos era que no se podían usar mayúsculas o caracteres especiales, como las tildes, decidí agregar esas cualidades y además también se capitalizan la primer palabra del texto y la primer palabra de cada oración.
 
 ## Deploy
-- La aplicación se encuentra activa en el siguiente enlace: [link al sitio](https://encryptador-aluone.netlify.app/)
+- La aplicación se encuentra activa en el siguiente enlace: <a href="https://encryptador-aluone.netlify.app/" target="_blank">link al sitio</a>
 - Momentáneamente también se desplegó en Github Pages con el propósito de cumplir con requisitos de entrga.
 
 ## Contacto
-- [Perfil de LinkedIn](https://www.linkedin.com/in/santiagofonzo/)
+- <a href="https://www.linkedin.com/in/santiagofonzo/" target="_blank">Perfil de LinkedIn</a>
+
+
